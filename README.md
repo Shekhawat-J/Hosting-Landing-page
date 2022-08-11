@@ -2,6 +2,6 @@
 
 [GIT URL](https://github.com/Shekhawat-J/Hosting-Landing-page)
 
-[LIVE URL]()
+[LIVE URL](https://hosting-webpage.netlify.app/)
 
 ![SCREEN SHORT OF HOME PAGE](./webpage.png)
